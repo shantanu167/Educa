@@ -9,7 +9,7 @@ EduTech is a responsive and modern landing page template for online learning pla
 
 ## 🌐 Demo
 
-[🔗 Live Preview](#) *(Add your deployed link here)*
+[🔗 Live Preview](#) *(https://shantanu167.github.io/Educa/)*
 
 ---
 
